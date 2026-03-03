@@ -5,7 +5,7 @@ Stores data as recieved from the API
 
 ###
 
-## Normalised & Cleaner (Silver Layer)
+## Normalised & Cleaned (Silver Layer)
 Stores normalised data in a proper database form
 
 ###
